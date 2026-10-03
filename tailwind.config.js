@@ -1,0 +1,1 @@
+module.exports={content:["./app/**/*.tsx","./components/**/*.tsx"],theme:{extend:{fontFamily:{sans:["DM Sans","system-ui","sans-serif"],display:["Bricolage Grotesque","DM Sans","system-ui","sans-serif"]},colors:{ink:"#12123A",electric:"#2F2FE4",violet:"#7A4DFF",off:"#F4F5FB",cloud:"#E6E8F4"}}},plugins:[]};
